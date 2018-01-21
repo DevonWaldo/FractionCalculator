@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class FractionTests {
     @Test
-    public void test_Constructor_AcceptsNumeratorAndDenominator(){
+    public void test_Constructor_AcceptsNumeratorAndDenominator() {
         Fraction f = new Fraction(1, 2);
     }
 
